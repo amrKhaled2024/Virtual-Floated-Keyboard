@@ -10,7 +10,9 @@ Dynamic Keyboard Layout: The keyboard dynamically switches between English and A
 Caps Lock: Allows users to toggle between uppercase and lowercase letters with the Caps Lock key.
 Backspace Functionality: Users can simulate a backspace key press by performing a specific gesture.
 Customizable Keyboard: The size and layout of the keyboard can be adjusted to fit the screen or user preferences.
+
 ![Hi Five 👋](https://drive.google.com/uc?export=view&id=1dJDthxIwhfBpaRmGPFpAfzGfyk7htRJU)
+
 ## Libraries Used:
 ### OpenCV (cv2): 
 Used for video capture and image processing.
